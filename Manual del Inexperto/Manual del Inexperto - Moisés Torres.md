@@ -10,18 +10,20 @@ Hoy en día, PostgreSQL sigue evolucionando, mantenido por un equipo mundial que
 1. Diríjase al sitio oficial de instalación PostgreSQL: [https://www.enterprisedb.com/downloads/postgres-postgresql-downloads](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 2. Descargue el paquete según su sistema operativo
    
-   !["1"](Pasted%20image%2020261124204631.png)
+   ![](assets/Pasted%20image%2020261124210009.png)
+1. Ejecute el instalador con permisos de administrador
+2. Continúa con la instalación
    
-3. Ejecute el instalador con permisos de administrador
-4. Continúa con la instalación
-   
-   ![](Pasted%20image%2020261124204738.png)
+   ![](assets/Pasted%20image%2020261124210039.png)
 1. Ruta de instalación
    
-   ![](Pasted%20image%2020261124204822.png)
+   ![](assets/Pasted%20image%2020261124210053.png)
 1. Selección de componentes
+   ![](assets/Pasted%20image%2020261124210123.png)
 2. Directorio de datos: **C:\Program Files\PostgreSQL\18\data**
+   ![](assets/Pasted%20image%2020261124210135.png)
 3. Crea la contraseña de postgres
+   ![](assets/Pasted%20image%2020261124210142.png)
 4. Dejar el puerto predeterminado: 5432
 5. Dejar opciones avanzadas en default y darle continuar
 6. Termine la instalación de PostgreSQL
