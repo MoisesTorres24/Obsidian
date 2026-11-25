@@ -10,7 +10,7 @@ Hoy en día, PostgreSQL sigue evolucionando, mantenido por un equipo mundial que
 1. Diríjase al sitio oficial de instalación PostgreSQL: [https://www.enterprisedb.com/downloads/postgres-postgresql-downloads](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 2. Descargue el paquete según su sistema operativo
    
-   ![](Pasted%20image%2020261124204631.png)
+   !["1"](Pasted%20image%2020261124204631.png)
    
 3. Ejecute el instalador con permisos de administrador
 4. Continúa con la instalación
